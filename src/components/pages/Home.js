@@ -8,7 +8,7 @@ const Home = () => {
       <div className="col-span-1 pl-96 h-screen">
         <Sidebar />
       </div>
-      <div className="col-span-1 border-x-2 ">
+      <div className="col-span-1 border-x-[1px] border-x-gray-500 ">
         <Timeline />
       </div>
       <div className="col-span-1">
